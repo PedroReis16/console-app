@@ -1,0 +1,5 @@
+Somente interface UI
+
+- Chama internal/service quando o usuário faz uma solicitação
+
+- Envia comandos assíncronos para não travar a interface, quando o resuldado chega numa tea.MSg, atualiza o model e a view
